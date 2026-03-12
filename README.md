@@ -15,7 +15,7 @@
 ## 💻 Tech Stack
 
 ### Known
-![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,bootstrap)
 
 ### Currently Learning
 ![My Skills](https://skillicons.dev/icons?i=react,express,mongodb)
@@ -42,3 +42,9 @@ Interactive browser game built using JavaScript.
 Backend web application built using Node.js, Express and EJS.
 
 🔗 https://github.com/Diyamalik1536/MajorProject
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/malikdiya)
