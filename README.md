@@ -34,7 +34,7 @@ Frontend clone of Amazon homepage.
 ### 🎮 Rock Paper Scissors Game
 Interactive browser game built using JavaScript.
 
-🔗 https://github.com/Diyamalik1536/rock-paper-scissors
+🔗 https://github.com/Diyamalik1536/Rock-Paper-and-Scissors
 
 ---
 
